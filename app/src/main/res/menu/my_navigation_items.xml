@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/action_groups"
+        android:title="@string/menu_groups"
+        android:icon="@drawable/ic_group" />
+
+    <item android:id="@+id/action_users"
+        android:title="@string/menu_users"
+        android:icon="@drawable/ic_person" />
+
+    <item android:id="@+id/action_add"
+        android:title="@string/menu_add"
+        android:icon="@drawable/ic_add_circle" />
+</menu>

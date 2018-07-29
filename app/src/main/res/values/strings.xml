@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">StudyMate</string>
+
+    <string name="login_nameLabel">Username</string>
+    <string name="login_passLabel">Password</string>
+    <string name="login_buttonText">Log In</string>
+    <string name="signup_text">Or Sign Up</string>
+    <string name="email_text">Email</string>
+    <string name="signup_button">Sign Up</string>
+    <string name="login_text">Or Log In</string>
+
+    <!--Group list avtivity/screen-->
+    <string name="groupTitle">Group</string>
+    <string name="ask_join">Ask to Join</string>
+
+    <!--card-->
+    <string name="quizes_text">Quizes</string>
+    <string name="members_text">Members</string>
+
+    <!--menu items-->
+    <string name="menu_users">Users</string>
+    <string name="menu_groups">Groups</string>
+    <string name="menu_add">New Group</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--user card-->
+    <string name="user_text">Scores</string>
+    <string name="group_text">Groups</string>
+</resources>
